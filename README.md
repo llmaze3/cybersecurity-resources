@@ -4,6 +4,8 @@ Welcome to this open-source repository of OSINT (Open Source Intelligence) and c
 
 This project is a categorized index of freely available tools used for collecting, analyzing, and correlating open-source information. The goal is to provide a reference for analysts, researchers, defenders, and anyone involved in threat hunting, malware research, reconnaissance, or investigations.
 
+➡️ Check out the [RSS Cyber News automation](./rss_cyber_news) project for details.
+
 ---
 
 ## 📌 About This Repository
